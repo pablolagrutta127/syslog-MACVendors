@@ -25,7 +25,7 @@ import os
 
 
 
-imported_file = "C:/Users/g502583/OneDrive - Sagemcom Broadband SAS/Documents/Telecentro/TLC_3890/6 - Tabanelli wifi issues/Tabanelli_3890_wifi issues/181.46.183.188.log.2"
+imported_file = "path/to/file"
 # parse it as args[]
 with open (imported_file, "r") as myfile:
     data=myfile.read()
