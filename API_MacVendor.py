@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb 21 17:48:11 2021
-
-@author: G502583
+Tiny script to extract all mac addresses from a txt, and match mac vendor DB via API
 """
 import pip
 
